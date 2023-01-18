@@ -1,28 +1,28 @@
-												8Y8Y8Y8Y8Y8Y8Y8Y8
-												88				8Y8Y
-												88				 8Y8Y
-												88				  8Y8Y
-												88				 8Y8Y 	
-												88				8Y8Y
-												88			   8Y8Y	
-												88			  8Y8Y	 
-												88			8Y8Y
-												88		  8Y8Y	
-												88		8Y8Y
-												88	  8Y8Y
-												88  8Y8Y
-												888Y8Y
-												88	8Y8Y
-												88	  8Y8Y
-												88		8Y8Y
-												88		  8Y8Y
-												88			8Y8Y
-												88			  8Y8Y
-												88				8Y8Y
-												88				  8Y8Y
-												88					8Y8Y
-												88					  8Y8Y
-												88						8Y8Y
+8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y8Y
+88				8Y8Y
+88				 8Y8Y
+88				  8Y8Y
+88				 8Y8Y 	
+88				8Y8Y
+88			   8Y8Y	
+88			  8Y8Y	 
+88			8Y8Y
+88		  8Y8Y	
+88		8Y8Y
+88	  8Y8Y
+88  8Y8Y
+888Y8Y
+88	8Y8Y
+88	  8Y8Y
+88		8Y8Y
+88		  8Y8Y
+88			8Y8Y
+88			  8Y8Y
+88				8Y8Y
+88				  8Y8Y
+88					8Y8Y
+88					  8Y8Y
+88						8Y8Y
 _______________________________________________________________________________________________________________________________________________________________________
 The RODENT is an extremly lightweight application for creating custom files for any os.
 The application contains an entry box, at the very top, there you are required to enter
